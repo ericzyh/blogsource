@@ -15,27 +15,27 @@ tags:
 
 自驾环湖。
 
-![](/images/1.png)
+![](/images/fbkf-over/1.png)
 
-![](/images/2.png)
+![](/images/fbkf-over/2.png)
 
-![](/images/3.png)
+![](/images/fbkf-over/3.png)
 
-![](/images/4.png)
+![](/images/fbkf-over/4.png)
 
-![](/images/5.png)
+![](/images/fbkf-over/5.png)
 
-![](/images/6.png)
+![](/images/fbkf-over/6.png)
 
 > Day 3
  
 上午在大理出发去丽江，中午入住丽江古镇，下午可以去房东那报名去拉市海回，古镇住宿。
 
-![](/images/7.png)
+![](/images/fbkf-over/7.png)
 
-![](/images/8.png)
+![](/images/fbkf-over/8.png)
 
-![](/images/9.png)
+![](/images/fbkf-over/9.png)
 
 
 Day 4
@@ -44,37 +44,37 @@ Day 4
 
 雪山之上：
 
-![](/images/10.png)
+![](/images/fbkf-over/10.png)
 
-![](/images/11.png)
+![](/images/fbkf-over/11.png)
 
-![](/images/12.png)
+![](/images/fbkf-over/12.png)
 
 雪山下的风光：
 
-![](/images/13.png)
+![](/images/fbkf-over/13.png)
 
-![](/images/14.png)
+![](/images/fbkf-over/14.png)
 
-![](/images/15.png) 
+![](/images/fbkf-over/15.png) 
 
 > Day 5
 
 从丽江出发向泸沽湖进发，车程3小时，确定住宿，在泸沽湖大约待两天，泸沽湖是西游记传说中的女儿国，并且是以彝族毕摩文化、摩梭人母系氏族文化，家里都是以女人为主，他们没有结婚的概念，是走婚（半夜爬窗户进屋那种）。
 
-![](/images/15.png)
+![](/images/fbkf-over/15.png)
 
-![](/images/16.png)
+![](/images/fbkf-over/16.png)
 
-![](/images/17.png)
+![](/images/fbkf-over/17.png)
 
-![](/images/18.png)
+![](/images/fbkf-over/18.png)
 
 > Day 6
  
 泸沽湖住宿玩玩吧，值得一玩，可以早起花30块钱去湖面看日出。
 
-![](/images/19.png)
+![](/images/fbkf-over/19.png)
 
 > Day 7 
 
