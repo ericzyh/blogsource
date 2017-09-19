@@ -11,7 +11,7 @@ tags:
 
 ![](/images/ifttt/1.jpg)
 
-> Step3 回复 givemerss 获取RSS链接
+> Step3 回复 give me rss 获取RSS链接
 
 ![](/images/ifttt/2.jpg)
 
@@ -28,3 +28,17 @@ tags:
 
 4. 发送文字到twitter
 ![](/images/ifttt/6.jpg)
+
+> Step5 如何同步图文信息?
+
+在IFTTT公众帐号发送一张图片，紧跟着回复一条消息，即可同步图文信息
+
+![](/images/ifttt/7.jpg)
+
+
+> Step6 如何同步文字信息
+
+在IFTTT公众帐号回复@开头的文字，即可同步文字信息
+
+如：@早安中国
+
