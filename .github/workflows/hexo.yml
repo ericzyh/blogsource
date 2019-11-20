@@ -9,5 +9,5 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ericzyh/github-actions-hexo@master
         with: 
-          username: zhaoyuhao   
+          username: zhaoyuhao    
           email: 8040334@qq.com
