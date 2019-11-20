@@ -11,4 +11,4 @@ jobs:
         with: 
           deploykey: ${{ secrets.GITHUB_TOKEN }}
           username: zhaoyuhao         
-          email: 8040334@qq.com
+          email: 8040334@qq.com  
