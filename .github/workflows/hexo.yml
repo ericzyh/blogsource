@@ -10,5 +10,5 @@ jobs:
       - uses: ericzyh/github-actions-hexo@master
         with: 
           deploykey: ${{ secrets.GITHUB_TOKEN }}
-          username: zhaoyuhao         
+          username: zhaoyuhao          
           email: 8040334@qq.com   
